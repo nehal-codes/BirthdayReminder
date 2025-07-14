@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# BirthdayReminder
+A simple React component that fetches 9 random users using the RandomUser API and displays their name, photo, age, and date of birth. Includes a "Clear All" button and styled with inline CSS.
+>>>>>>> 988e6f44f8f28d9a2053d6da5ca46d0c701b3f17
